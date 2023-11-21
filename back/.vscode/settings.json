@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Creds",
+        "dotenv"
+    ],
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml"
+    ]
+}
